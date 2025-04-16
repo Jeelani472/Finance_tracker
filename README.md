@@ -21,4 +21,3 @@ A full-stack web app to track your income and expenses with interactive charts a
 - **Charts:** Recharts
 - **Deployment:** Vercel
 
-## 📂 Project Structure
