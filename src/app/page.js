@@ -282,7 +282,7 @@ export default function HomePage() {
                           {t.description}
                         </span>
                         <span className="font-semibold text-white">
-                          ₹{t.amount.toFixed(2)}
+                          ${t.amount.toFixed(2)}
                         </span>
                       </li>
                     ))}
